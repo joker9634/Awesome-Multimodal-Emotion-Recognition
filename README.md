@@ -1,7 +1,7 @@
 # Awesome-Multimodal-Emotion-Recognition
 # Overviews
-1. [Survey on Multimodal Emotion Recognition](https://www.bing.com/ck/a?!&&p=f0d38a3421e61c04JmltdHM9MTcyMTc3OTIwMCZpZ3VpZD0yMzQxNWNiMy1mOWEzLTY2MjktMDI3My00OGE4ZjhlOTY3NDUmaW5zaWQ9NTMxMw&ptn=3&ver=2&hsh=3&fclid=23415cb3-f9a3-6629-0273-48a8f8e96745&psq=%e5%a4%9a%e6%a8%a1%e6%80%81%e6%83%85%e7%bb%aa%e8%af%86%e5%88%ab&u=a1aHR0cHM6Ly9uYXR1cmUuc3d1bi5lZHUuY24vY2gvcmVhZGVyL3ZpZXdfYWJzdHJhY3QuYXNweD9mbGFnPTEmZmlsZV9ubz0yMDIxMTEwOTAwMg&ntb=1)
-1. [A review of multimodal emotion recognition from datasets, preprocessing, features, and fusion methods](https://doi.org/10.1016/j.neucom.2023.126866)
+1. [Survey on Multimodal Emotion Recognition](https://www.bing.com/ck/a?!&&p=f0d38a3421e61c04JmltdHM9MTcyMTc3OTIwMCZpZ3VpZD0yMzQxNWNiMy1mOWEzLTY2MjktMDI3My00OGE4ZjhlOTY3NDUmaW5zaWQ9NTMxMw&ptn=3&ver=2&hsh=3&fclid=23415cb3-f9a3-6629-0273-48a8f8e96745&psq=%e5%a4%9a%e6%a8%a1%e6%80%81%e6%83%85%e7%bb%aa%e8%af%86%e5%88%ab&u=a1aHR0cHM6Ly9uYXR1cmUuc3d1bi5lZHUuY24vY2gvcmVhZGVyL3ZpZXdfYWJzdHJhY3QuYXNweD9mbGFnPTEmZmlsZV9ubz0yMDIxMTEwOTAwMg&ntb=1)  2022-4
+1. [A review of multimodal emotion recognition from datasets, preprocessing, features, and fusion methods](https://doi.org/10.1016/j.neucom.2023.126866)  2023-12
 
 # Multimodal information extraction
 1. [Multi-round conversation emotion recognition based on RoBERTa model](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbppIIq6JKX0jB2z9wA3K8jXkrSaLndRWMJvsVR0deCazJ77sOYqmKlv_waFU80Vuj2w32lJk_mUkFw3yQAlbC7jLLgXIiBrLvTnIANqA6N-MWIZtPlVyfpECqMWikLRCCSA4vtBI7Nd4gPwjOe-wAmxnlxK6gZIwgFebRmDqzMx3_2GkwQ8WUqfaloM9fC49z1I=&uniplatform=NZKPT&language=CHS)
