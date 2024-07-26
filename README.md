@@ -14,9 +14,8 @@
 1. [Revisiting Disentanglement and Fusion on Modality and Context in Conversational Multimodal Emotion Recognition ](https://doi.org/10.1145/3581783.3612053)  2023-10
 1. [Multi-Label Multimodal Emotion Recognition With Transformer-Based Fusion and Emotion-Level Representation Learning](https://doi.org/10.1109/ACCESS.2023.3244390)  2023-2
 1. [Exploiting Modality-Invariant Feature for Robust Multimodal Emotion Recognition with Missing Modalities](https://doi.org/10.1109/ICASSP49357.2023.10095836)  2023-5
-1.[Multimodal Emotion Recognition Based on Cascaded Multichannel and Hierarchical Fusion](https://doi.org/10.1155/2023/9645611)  2023-1
+1. [Multimodal Emotion Recognition Based on Cascaded Multichannel and Hierarchical Fusion](https://doi.org/10.1155/2023/9645611)  2023-1
 1. [Interpretable multimodal emotion recognition using hybrid fusion of speech and image data](https://link.springer.com/article/10.1007/s11042-023-16443-1) 2023-9
-
 
 
 # Emotion recognition
