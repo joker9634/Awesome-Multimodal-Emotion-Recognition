@@ -2,6 +2,7 @@
 # Overviews
 1. [Survey on Multimodal Emotion Recognition](https://www.bing.com/ck/a?!&&p=f0d38a3421e61c04JmltdHM9MTcyMTc3OTIwMCZpZ3VpZD0yMzQxNWNiMy1mOWEzLTY2MjktMDI3My00OGE4ZjhlOTY3NDUmaW5zaWQ9NTMxMw&ptn=3&ver=2&hsh=3&fclid=23415cb3-f9a3-6629-0273-48a8f8e96745&psq=%e5%a4%9a%e6%a8%a1%e6%80%81%e6%83%85%e7%bb%aa%e8%af%86%e5%88%ab&u=a1aHR0cHM6Ly9uYXR1cmUuc3d1bi5lZHUuY24vY2gvcmVhZGVyL3ZpZXdfYWJzdHJhY3QuYXNweD9mbGFnPTEmZmlsZV9ubz0yMDIxMTEwOTAwMg&ntb=1)  2022-4
 1. [A review of multimodal emotion recognition from datasets, preprocessing, features, and fusion methods](https://doi.org/10.1016/j.neucom.2023.126866)  2023-12
+1. [Multimodal sentiment analysis: A systematic review of history, datasets, multimodal fusion methods, applications, challenges and future directions](https://doi.org/10.1016/j.inffus.2022.09.025)  2023-3
 
 # Multimodal information extraction
 1. [Multi-round conversation emotion recognition based on RoBERTa model](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbppIIq6JKX0jB2z9wA3K8jXkrSaLndRWMJvsVR0deCazJ77sOYqmKlv_waFU80Vuj2w32lJk_mUkFw3yQAlbC7jLLgXIiBrLvTnIANqA6N-MWIZtPlVyfpECqMWikLRCCSA4vtBI7Nd4gPwjOe-wAmxnlxK6gZIwgFebRmDqzMx3_2GkwQ8WUqfaloM9fC49z1I=&uniplatform=NZKPT&language=CHS)  2023-12
@@ -16,7 +17,8 @@
 1. [Exploiting Modality-Invariant Feature for Robust Multimodal Emotion Recognition with Missing Modalities](https://doi.org/10.1109/ICASSP49357.2023.10095836)  2023-5
 1. [Multimodal Emotion Recognition Based on Cascaded Multichannel and Hierarchical Fusion](https://doi.org/10.1155/2023/9645611)  2023-1
 1. [Interpretable multimodal emotion recognition using hybrid fusion of speech and image data](https://link.springer.com/article/10.1007/s11042-023-16443-1) 2023-9
-
+1. [MultiEMO: An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations](https://doi.org/10.18653/v1/2023.acl-long.824)  2023-3
+1. [Multimodal emotion recognition based on long-distance modeling and multi-source data fusion](https://doi.org/10.1109/CIPAE60493.2023.00100)  2023-12
 
 # Emotion recognition
 1. [Multi-round conversation emotion recognition based on RoBERTa model](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbpoPmYAh3xU40vVtbykHHVW_hHrDYmSkt0fE6Pwix3omJHd0yMKfu03SvJ_bhICmfggq7n17fK4SbIDvEkgtuHHrYJg8m4RLLYlzaYpPoggBhwkRvkCBK-u-vlK3zODQODdhx3OlCM3r5N0WithzVHDyWDRW5Z_9Ceg0abBCz7vi1vVt_mgyQs_-bzImjjHuHjc=&uniplatform=NZKPT&language=CHS)  2023-12
@@ -30,3 +32,4 @@
 1. [Deep Imbalanced Learning for Multimodal Emotion Recognition in Conversations](https://doi.org/10.48550/arXiv.2312.06337)  2023-12
 1. [Multimodal Emotion Recognition Based on Cascaded Multichannel and Hierarchical Fusion](https://doi.org/10.1155/2023/9645611)  2023-1
 1. [Self-adaptive Context and Modal-interaction Modeling For Multimodal Emotion Recognition](https://doi.org/10.18653/v1/2023.findings-acl.390)  2023-7
+1. [MultiEMO: An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations](https://doi.org/10.18653/v1/2023.acl-long.824)  2023-3
