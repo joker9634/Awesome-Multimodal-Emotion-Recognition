@@ -15,11 +15,14 @@
 1. [Multi-Label Multimodal Emotion Recognition With Transformer-Based Fusion and Emotion-Level Representation Learning](https://doi.org/10.1109/ACCESS.2023.3244390)  2023-2
 1. [Exploiting Modality-Invariant Feature for Robust Multimodal Emotion Recognition with Missing Modalities](https://doi.org/10.1109/ICASSP49357.2023.10095836)  2023-5
 1. [Multimodal Emotion Recognition Based on Cascaded Multichannel and Hierarchical Fusion](https://doi.org/10.1155/2023/9645611)  2023-1
-1. [Interpretable multimodal emotion recognition using hybrid fusion of speech and image data](https://link.springer.com/article/10.1007/s11042-023-16443-1) 2023-9
+1. [Interpretable multimodal emotion recognition using hybrid fusion of speech and image data](https://link.springer.com/article/10.1007/s11042-023-16443-1) 2023-9  
+ [code](https://github.com/MIntelligence-Group/SpeechImg_EmoRec)
 1. [MultiEMO: An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations](https://doi.org/10.18653/v1/2023.acl-long.824)  2023-3
 1. [Multimodal emotion recognition based on long-distance modeling and multi-source data fusion](https://doi.org/10.1109/CIPAE60493.2023.00100)  2023-12
 
 # Emotion recognition
+1. [EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark](https://doi.org/10.48550/arXiv.2406.07162)  2024-6
+[code](https://github.com/emo-box/emobox)
 1. [Multi-round conversation emotion recognition based on RoBERTa model](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbpoPmYAh3xU40vVtbykHHVW_hHrDYmSkt0fE6Pwix3omJHd0yMKfu03SvJ_bhICmfggq7n17fK4SbIDvEkgtuHHrYJg8m4RLLYlzaYpPoggBhwkRvkCBK-u-vlK3zODQODdhx3OlCM3r5N0WithzVHDyWDRW5Z_9Ceg0abBCz7vi1vVt_mgyQs_-bzImjjHuHjc=&uniplatform=NZKPT&language=CHS)  2023-12
 1. [Research and Implementation of Multimodal Emotion Recognition and Emotion Reason Pair Extraction Algorithm](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbprfHQuQUBb-SciYCyfAJ1TtZQNuODq25URpUH3t9AToWnzIcLfbaSE27RvYLqKi80M5W3kLMXle14S2roavRuOkdX-sKnuAURgvTPUvVXVMfgBwd-3KEd6KqeZDRMfzaNHVPRGDYvm19uIHBGUUQnUKuqDhXWrrBZjy9QydhkIZkMMae7uHrxBH1yy1XV9GnLs=&uniplatform=NZKPT&language=CHS)  2023-3
 1. [Multimodal Emotion Recognition Based on Hierarchical Fusion Strategy and Contextual Information Embedding](https://kns.cnki.net/kcms2/article/abstract?v=kHMw6kznbppLewcxyqu_GglGNBsHmRrI_jmUJhLhC806ousK3g39il6XQicx_8fbv4Dv9ORIpDqY6ZI0oIOj083ED0XWawkl7yOfy-Sh4CFEnZsOfvx9CmcCZJpWNdRaiWoG36lYb9rhM8Aeiqk2j9iyygSy9eUggpjcLBVPJb58nfnlF2Rd6lCuf0eAnmd6&uniplatform=NZKPT&language=CHS)  2024-5
