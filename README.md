@@ -19,6 +19,10 @@
  [code](https://github.com/MIntelligence-Group/SpeechImg_EmoRec)
 1. [MultiEMO: An Attention-Based Correlation-Aware Multimodal Fusion Framework for Emotion Recognition in Conversations](https://doi.org/10.18653/v1/2023.acl-long.824)  2023-3
 1. [Multimodal emotion recognition based on long-distance modeling and multi-source data fusion](https://doi.org/10.1109/CIPAE60493.2023.00100)  2023-12
+1. [Recursive Joint Cross-Modal Attention for Multimodal Fusion in Dimensional Emotion Recognition](http://arxiv.org/abs/2403.13659)  2024-6
+[code](https://github.com/praveena2j/RJCMA)
+
+
 
 # Emotion recognition
 1. [EmoBox: Multilingual Multi-corpus Speech Emotion Recognition Toolkit and Benchmark](https://doi.org/10.48550/arXiv.2406.07162)  2024-6
